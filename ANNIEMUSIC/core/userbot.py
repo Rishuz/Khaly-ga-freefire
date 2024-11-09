@@ -47,18 +47,18 @@ class Userbot(Client):
         )
 
     async def start(self):
-        LOGGER(__name__).info(f"Annie's Assistant starting...")
+        LOGGER(__name__).info(f"Vishnu's Assistant starting...")
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("Dora_hub")
+                await self.one.join_chat("https://t.me/+bThODpBz5adiNDJl")
               
-                await self.one.join_chat("loggchk")
+                await self.one.join_chat("https://t.me/NAINCY_UPDATES")
             except:
                 pass
             assistants.append(1)
             try:
-                await self.one.send_message(config.LOGGER_ID, "Annie's Assistant Start.........")
+                await self.one.send_message(config.LOGGER_ID, "Vishnu's Assistant Start.........")
                                          
             except:
                 LOGGER(__name__).error(
@@ -74,9 +74,9 @@ class Userbot(Client):
         if config.STRING2:
             await self.two.start()
             try:
-                await self.two.join_chat("Dora_hub")
+                await self.two.join_chat("https://t.me/+bThODpBz5adiNDJl")
                 
-                await self.one.join_chat("loggchk")
+                await self.one.join_chat("https://t.me/NAINCY_UPDATES")
             except:
                 pass
             assistants.append(2)
@@ -160,7 +160,7 @@ class Userbot(Client):
             LOGGER(__name__).info(f"Assistant Five Started as {self.five.name}")
 
     async def stop(self):
-        LOGGER(__name__).info(f"Annie's Stopping Assistants...")
+        LOGGER(__name__).info(f"Vishnu's Stopping Assistants...")
         try:
             if config.STRING1:
                 await self.one.stop()
