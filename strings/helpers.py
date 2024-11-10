@@ -15,7 +15,7 @@ HELP_1 = """<b><u>ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅs :</b></u>
 
 /queue : sʜᴏᴡs ᴛʜᴇ ǫᴜᴇᴜᴇᴅ ᴛʀᴀᴄᴋs ʟɪsᴛ.
 
-✧ᴛʜᴇsᴇ ᴍᴏᴅᴜʟᴇs ʙʏ ➪ [Aᴅᴍɪɴɪsᴛʀᴀᴛᴏʀ💗](https://t.me/Ind_Administrator)"""
+✧ᴛʜᴇsᴇ ᴍᴏᴅᴜʟᴇs ʙʏ ➪ [ᴅᴇᴠᴇʟᴏᴩᴇʀ ➪💗](https://t.me/thevishnusoni14)"""
 
 HELP_2 = """
 <b><u>ᴀᴜᴛʜ ᴜsᴇʀs :</b></u>
@@ -26,7 +26,7 @@ HELP_2 = """
 /unauth [ᴜsᴇʀɴᴀᴍᴇ/ᴜsᴇʀ_ɪᴅ] : ʀᴇᴍᴏᴠᴇ ᴀ ᴀᴜᴛʜ ᴜsᴇʀs ғʀᴏᴍ ᴛʜᴇ ᴀᴜᴛʜ ᴜsᴇʀs ʟɪsᴛ.
 /authusers : sʜᴏᴡs ᴛʜᴇ ʟɪsᴛ ᴏғ ᴀᴜᴛʜ ᴜsᴇʀs ᴏғ ᴛʜᴇ ɢʀᴏᴜᴩ.
 
-✧ᴛʜᴇsᴇ ᴍᴏᴅᴜʟᴇs ʙʏ ➪ [Aᴅᴍɪɴɪsᴛʀᴀᴛᴏʀ💗](https://t.me/Ind_Administrator)"""
+✧ᴛʜᴇsᴇ ᴍᴏᴅᴜʟᴇs ʙʏ ➪ [ᴅᴇᴠᴇʟᴏᴩᴇʀ ➪💗](https://t.me/thevishnusoni14)"""
 
 HELP_3 = """
 <u><b>ʙʀᴏᴀᴅᴄᴀsᴛ ғᴇᴀᴛᴜʀᴇ</b></u> [ᴏɴʟʏ ғᴏʀ sᴜᴅᴏᴇʀs] :
@@ -42,7 +42,7 @@ HELP_3 = """
 
 <b>ᴇxᴀᴍᴩʟᴇ:</b> <code>/broadcast -user -assistant -pin ᴛᴇsᴛɪɴɢ ʙʀᴏᴀᴅᴄᴀsᴛ</code>
 
-✧ᴛʜᴇsᴇ ᴍᴏᴅᴜʟᴇs ʙʏ ➪ [Aᴅᴍɪɴɪsᴛʀᴀᴛᴏʀ💗](https://t.me/Ind_Administrator)"""
+✧ᴛʜᴇsᴇ ᴍᴏᴅᴜʟᴇs ʙʏ ➪ [ᴅᴇᴠᴇʟᴏᴩᴇʀ ➪💗](https://t.me/thevishnusoni14)"""
 
 HELP_4 = """<u><b>ᴄʜᴀᴛ ʙʟᴀᴄᴋʟɪsᴛ ғᴇᴀᴛᴜʀᴇ :</b></u> [ᴏɴʟʏ ғᴏʀ sᴜᴅᴏᴇʀs]
 
@@ -52,7 +52,8 @@ HELP_4 = """<u><b>ᴄʜᴀᴛ ʙʟᴀᴄᴋʟɪsᴛ ғᴇᴀᴛᴜʀᴇ :</b></u
 /whitelistchat [ᴄʜᴀᴛ ɪᴅ] : ᴡʜɪᴛᴇʟɪsᴛ ᴛʜᴇ ʙʟᴀᴄᴋʟɪsᴛᴇᴅ ᴄʜᴀᴛ.
 /blacklistedchat : sʜᴏᴡs ᴛʜᴇ ʟɪsᴛ ᴏғ ʙʟᴀᴄᴋʟɪsᴛᴇᴅ ᴄʜᴀᴛs.
 
-☆✧✧ᴛʜᴇsᴇ ᴍᴏᴅᴜʟᴇs ʙʏ ➪ [Aᴅᴍɪɴɪsᴛʀᴀᴛᴏʀ💗](https://t.me/Ind_Administrator)"""
+☆✧✧ᴛʜᴇsᴇ ᴍᴏᴅᴜʟᴇs ʙʏ ➪ [ᴅᴇᴠᴇʟᴏᴩᴇʀ ➪💗](https://t.me/thevishnusoni14)"""
+
 
 HELP_5 = """
 <u><b>ʙʟᴏᴄᴋ ᴜsᴇʀs:</b></u> [ᴏɴʟʏ ғᴏʀ sᴜᴅᴏᴇʀs]
@@ -63,7 +64,7 @@ sᴛᴀʀᴛs ɪɢɴᴏʀɪɴɢ ᴛʜᴇ ʙʟᴀᴄᴋʟɪsᴛᴇᴅ ᴜsᴇʀ, 
 /unblock [ᴜsᴇʀɴᴀᴍᴇ ᴏʀ ʀᴇᴩʟʏ ᴛᴏ ᴀ ᴜsᴇʀ] : ᴜɴʙʟᴏᴄᴋs ᴛʜᴇ ʙʟᴏᴄᴋᴇᴅ ᴜsᴇʀ.
 /blockedusers : sʜᴏᴡs ᴛʜᴇ ʟɪsᴛ ᴏғ ʙʟᴏᴄᴋᴇᴅ ᴜsᴇʀs.
 
-✧ᴛʜᴇsᴇ ᴍᴏᴅᴜʟᴇs ʙʏ ➪ [Aᴅᴍɪɴɪsᴛʀᴀᴛᴏʀ💗](https://t.me/Ind_Administrator)"""
+✧ᴛʜᴇsᴇ ᴍᴏᴅᴜʟᴇs ʙʏ ➪ [ᴅᴇᴠᴇʟᴏᴩᴇʀ ➪💗](https://t.me/thevishnusoni14)"""
 
 HELP_6 = """
 <u><b>ᴄʜᴀɴɴᴇʟ ᴩʟᴀʏ ᴄᴏᴍᴍᴀɴᴅs:</b></u>
@@ -78,7 +79,8 @@ HELP_6 = """
 /bass ➠ ʀᴇᴘʟʏ ᴛᴏ ᴀɴ ᴀᴜᴅɪᴏ ғɪʟᴇ ᴛʜᴀᴛ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴀᴅᴅ ʙᴀss ɪɴ ᴀᴅᴜɪᴏ...
 /dj ➠ ʀᴇᴘʟʏ ᴛᴏ ᴀɴ ᴀᴜᴅɪᴏ ғɪʟᴇ ᴛʜᴀᴛ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴀᴅᴅ ᴅᴊ ᴇғғᴇᴄᴛ ɪɴ ᴀᴅᴜɪᴏ...
 
-✧ᴛʜᴇsᴇ ᴍᴏᴅᴜʟᴇs ʙʏ ➪ [Aᴅᴍɪɴɪsᴛʀᴀᴛᴏʀ💗](https://t.me/Ind_Administrator)"""
+✧ᴛʜᴇsᴇ ᴍᴏᴅᴜʟᴇs ʙʏ ➪ [ᴅᴇᴠᴇʟᴏᴩᴇʀ ➪💗](https://t.me/thevishnusoni14)"""
+
 
 HELP_7 = """
 <u><b>ɢʟᴏʙᴀʟ ʙᴀɴ ғᴇᴀᴛᴜʀᴇ</b></u> [ᴏɴʟʏ ғᴏʀ sᴜᴅᴏᴇʀs] :
@@ -87,7 +89,8 @@ HELP_7 = """
 /ungban [ᴜsᴇʀɴᴀᴍᴇ ᴏʀ ʀᴇᴩʟʏ ᴛᴏ ᴀ ᴜsᴇʀ] : ɢʟᴏʙᴀʟʟʏ ᴜɴʙᴀɴs ᴛʜᴇ ɢʟᴏʙᴀʟʟʏ ʙᴀɴɴᴇᴅ ᴜsᴇʀ.
 /gbannedusers : sʜᴏᴡs ᴛʜᴇ ʟɪsᴛ ᴏғ ɢʟᴏʙᴀʟʟʏ ʙᴀɴɴᴇᴅ ᴜsᴇʀs.
 
-✧ᴛʜᴇsᴇ ᴍᴏᴅᴜʟᴇs ʙʏ ➪ [Aᴅᴍɪɴɪsᴛʀᴀᴛᴏʀ💗](https://t.me/Ind_Administrator)"""
+✧ᴛʜᴇsᴇ ᴍᴏᴅᴜʟᴇs ʙʏ ➪ [ᴅᴇᴠᴇʟᴏᴩᴇʀ ➪💗](https://t.me/thevishnusoni14)"""
+
 
 HELP_8 = """
 <b><u>ʟᴏᴏᴘ sᴛʀᴇᴀᴍ :</b></u>
@@ -97,7 +100,8 @@ HELP_8 = """
 /loop [enable/disable] : ᴇɴᴀʙʟᴇs/ᴅɪsᴀʙʟᴇs ʟᴏᴏᴘ ғᴏʀ ᴛʜᴇ ᴏɴɢᴏɪɴɢ sᴛʀᴇᴀᴍ
 /loop [1, 2, 3, ...] : ᴇɴᴀʙʟᴇs ᴛʜᴇ ʟᴏᴏᴘ ғᴏʀ ᴛʜᴇ ɢɪᴠᴇɴ ᴠᴀʟᴜᴇ.
 
-✧ᴛʜᴇsᴇ ᴍᴏᴅᴜʟᴇs ʙʏ ➪ [Aᴅᴍɪɴɪsᴛʀᴀᴛᴏʀ💗](https://t.me/Ind_Administrator)"""
+✧ᴛʜᴇsᴇ ᴍᴏᴅᴜʟᴇs ʙʏ ➪ [ᴅᴇᴠᴇʟᴏᴩᴇʀ ➪💗](https://t.me/thevishnusoni14)"""
+
 
 HELP_9 = """
 <u><b>ᴍᴀɪɴᴛᴇɴᴀɴᴄᴇ ᴍᴏᴅᴇ</b></u> [ᴏɴʟʏ ғᴏʀ sᴜᴅᴏᴇʀs] :
@@ -108,7 +112,8 @@ HELP_9 = """
 
 /maintenance [ᴇɴᴀʙʟᴇ/ᴅɪsᴀʙʟᴇ] : ᴇɴᴀʙʟᴇ ᴏʀ ᴅɪsᴀʙʟᴇ ᴛʜᴇ ᴍᴀɪɴᴛᴇɴᴀɴᴄᴇ ᴍᴏᴅᴇ ᴏғ ʏᴏᴜʀ ʙᴏᴛ.
 
-✧ᴛʜᴇsᴇ ᴍᴏᴅᴜʟᴇs ʙʏ ➪ [Aᴅᴍɪɴɪsᴛʀᴀᴛᴏʀ💗](https://t.me/Ind_Administrator)"""
+✧ᴛʜᴇsᴇ ᴍᴏᴅᴜʟᴇs ʙʏ ➪ [ᴅᴇᴠᴇʟᴏᴩᴇʀ ➪💗](https://t.me/thevishnusoni14)"""
+
 
 HELP_10 = """
 <b><u>ᴘɪɴɢ & sᴛᴀᴛs :</b></u>
@@ -120,7 +125,8 @@ HELP_10 = """
 
 /stats : sʜᴏᴡs ᴛʜᴇ ᴏᴠᴇʀᴀʟʟ sᴛᴀᴛs ᴏғ ᴛʜᴇ ʙᴏᴛ.
 
-✧ᴛʜᴇsᴇ ᴍᴏᴅᴜʟᴇs ʙʏ ➪ [Aᴅᴍɪɴɪsᴛʀᴀᴛᴏʀ💗](https://t.me/Ind_Administrator)"""
+✧ᴛʜᴇsᴇ ᴍᴏᴅᴜʟᴇs ʙʏ ➪ [ᴅᴇᴠᴇʟᴏᴩᴇʀ ➪💗](https://t.me/thevishnusoni14)"""
+
 
 HELP_11 = """
 <u><b>ᴩʟᴀʏ ᴄᴏᴍᴍᴀɴᴅs :</b></u>
@@ -132,7 +138,8 @@ HELP_11 = """
 
 /playforce ᴏʀ /vplayforce : sᴛᴏᴩs ᴛʜᴇ ᴏɴɢᴏɪɴɢ sᴛʀᴇᴀᴍ ᴀɴᴅ sᴛᴀʀᴛs sᴛʀᴇᴀᴍɪɴɢ ᴛʜᴇ ʀᴇǫᴜᴇsᴛᴇᴅ ᴛʀᴀᴄᴋ.
 
-✧ᴛʜᴇsᴇ ᴍᴏᴅᴜʟᴇs ʙʏ ➪ [Aᴅᴍɪɴɪsᴛʀᴀᴛᴏʀ💗](https://t.me/Ind_Administrator)"""
+✧ᴛʜᴇsᴇ ᴍᴏᴅᴜʟᴇs ʙʏ ➪ [ᴅᴇᴠᴇʟᴏᴩᴇʀ ➪💗](https://t.me/thevishnusoni14)"""
+
 
 HELP_12 = """
 <b><u>sʜᴜғғʟᴇ ᴏ̨ᴜᴇᴜᴇ :</b></u>
@@ -140,7 +147,8 @@ HELP_12 = """
 /shuffle : sʜᴜғғʟᴇ's ᴛʜᴇ ᴏ̨ᴜᴇᴜᴇ.
 /queue : sʜᴏᴡs ᴛʜᴇ sʜᴜғғʟᴇᴅ ᴏ̨ᴜᴇᴜᴇ.
 
-✧ᴛʜᴇsᴇ ᴍᴏᴅᴜʟᴇs ʙʏ ➪ [Aᴅᴍɪɴɪsᴛʀᴀᴛᴏʀ💗](https://t.me/Ind_Administrator)"""
+✧ᴛʜᴇsᴇ ᴍᴏᴅᴜʟᴇs ʙʏ ➪ [ᴅᴇᴠᴇʟᴏᴩᴇʀ ➪💗](https://t.me/thevishnusoni14)"""
+
 
 HELP_13 = """
 <b><u>sᴇᴇᴋ sᴛʀᴇᴀᴍ :</b></u>
@@ -148,7 +156,8 @@ HELP_13 = """
 /seek [ᴅᴜʀᴀᴛɪᴏɴ ɪɴ sᴇᴄᴏɴᴅs] : sᴇᴇᴋ ᴛʜᴇ sᴛʀᴇᴀᴍ ᴛᴏ ᴛʜᴇ ɢɪᴠᴇɴ ᴅᴜʀᴀᴛɪᴏɴ.
 /seekback [ᴅᴜʀᴀᴛɪᴏɴ ɪɴ sᴇᴄᴏɴᴅs] : ʙᴀᴄᴋᴡᴀʀᴅ sᴇᴇᴋ ᴛʜᴇ sᴛʀᴇᴀᴍ ᴛᴏ ᴛʜᴇ ᴛʜᴇ ɢɪᴠᴇɴ ᴅᴜʀᴀᴛɪᴏɴ.
 
-✧ᴛʜᴇsᴇ ᴍᴏᴅᴜʟᴇs ʙʏ ➪ [Aᴅᴍɪɴɪsᴛʀᴀᴛᴏʀ💗](https://t.me/Ind_Administrator)"""
+✧ᴛʜᴇsᴇ ᴍᴏᴅᴜʟᴇs ʙʏ ➪ [ᴅᴇᴠᴇʟᴏᴩᴇʀ ➪💗](https://t.me/thevishnusoni14)"""
+
 
 HELP_14 = """
 <b><u>ᴅᴏᴡɴʟᴏᴀᴅ sᴇᴄᴛɪᴏɴ</b></u>
@@ -159,7 +168,8 @@ HELP_14 = """
 /movie ➠ ᴛᴏ ɢᴇᴛ ɪɴғᴏ ᴏғ ᴛʜᴀᴛ ᴍᴏᴠɪᴇ.
 /remove ➠ [ᴠɪᴅᴇᴏ ᴏʀ ᴀᴜᴅɪᴏ ] ʀᴇᴘʟʏ ᴛᴏ ᴀɴ ᴠɪᴅᴇᴏ ғɪʟᴇ. ᴛʜᴀᴛ ʏᴏᴜ ᴡᴀɴᴛ ʀᴇᴍᴏᴠᴇ ᴀᴜᴅɪᴏ ᴏʀ ᴠɪᴅᴇᴏ.
 
-✧ᴛʜᴇsᴇ ᴍᴏᴅᴜʟᴇs ʙʏ ➪ [Aᴅᴍɪɴɪsᴛʀᴀᴛᴏʀ💗](https://t.me/Ind_Administrator)"""
+✧ᴛʜᴇsᴇ ᴍᴏᴅᴜʟᴇs ʙʏ ➪ [ᴅᴇᴠᴇʟᴏᴩᴇʀ ➪💗](https://t.me/thevishnusoni14)"""
+
 
 HELP_15 = """
 <b><u>sᴘᴇᴇᴅ ᴄᴏᴍᴍᴀɴᴅs :</b></u>
@@ -169,7 +179,8 @@ HELP_15 = """
 /speed or /playback : ғᴏʀ ᴀᴅᴊᴜsᴛɪɴɢ ᴛʜᴇ ᴀᴜᴅɪᴏ ᴘʟᴀʏʙᴀᴄᴋ sᴘᴇᴇᴅ ɪɴ ɢʀᴏᴜᴘ.
 /cspeed or /cplayback : ғᴏʀ ᴀᴅᴊᴜsᴛɪɴɢ ᴛʜᴇ ᴀᴜᴅɪᴏ ᴘʟᴀʏʙᴀᴄᴋ sᴘᴇᴇᴅ ɪɴ ᴄʜᴀɴɴᴇʟ.
 
-✧ᴛʜᴇsᴇ ᴍᴏᴅᴜʟᴇs ʙʏ ➪ [Aᴅᴍɪɴɪsᴛʀᴀᴛᴏʀ💗](https://t.me/Ind_Administrator)"""
+✧ᴛʜᴇsᴇ ᴍᴏᴅᴜʟᴇs ʙʏ ➪ [ᴅᴇᴠᴇʟᴏᴩᴇʀ ➪💗](https://t.me/thevishnusoni14)"""
+
 
 HELP_16 = """
 <b><u>CʜᴀᴛGPT :</b></u>
@@ -186,7 +197,8 @@ HELP_16 = """
  /logo - ᴇɴᴛᴇʀ ᴛᴇxᴛ ᴀғᴛᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ɢᴇɴʀᴀᴛᴇ ʟᴏɢᴏ.
  /animelogo - ᴇɴᴛᴇʀ ᴛᴇxᴛ ᴀғᴛᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ɢᴇɴʀᴀᴛᴇ ᴀɴɪᴍᴇ ʟᴏɢᴏ.
  
-✧ᴛʜᴇsᴇ ᴍᴏᴅᴜʟᴇs ʙʏ ➪ [Aᴅᴍɪɴɪsᴛʀᴀᴛᴏʀ💗](https://t.me/Ind_Administrator)"""
+✧ᴛʜᴇsᴇ ᴍᴏᴅᴜʟᴇs ʙʏ ➪ [ᴅᴇᴠᴇʟᴏᴩᴇʀ ➪💗](https://t.me/thevishnusoni14)"""
+
 
 HELP_17 = """
 <b><u>sᴛɪᴄᴋᴇʀs :</b></u>
@@ -199,7 +211,8 @@ HELP_17 = """
 /st ➠ ᴛᴏ ғɪɴᴅ ᴛʜᴇ sᴛɪᴄᴋᴇʀ ᴘʟᴇᴀsᴇ ᴘʀᴏᴠɪᴅᴇ sᴛɪᴄᴋᴇʀ ɪᴅ ᴀғᴛᴇʀ ᴄᴏᴍᴍᴀɴᴅ.
 /meme ➠ ᴜsᴇ ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ɢᴇɴʀᴀᴛᴇ ᴍᴇᴍᴇs.
 
-✧ᴛʜᴇsᴇ ᴍᴏᴅᴜʟᴇs ʙʏ ➪ [Aᴅᴍɪɴɪsᴛʀᴀᴛᴏʀ💗](https://t.me/Ind_Administrator)"""
+✧ᴛʜᴇsᴇ ᴍᴏᴅᴜʟᴇs ʙʏ ➪ [ᴅᴇᴠᴇʟᴏᴩᴇʀ ➪💗](https://t.me/thevishnusoni14)"""
+
 
 HELP_18 = """
 <b><u>Tᴀɢ-Aʟʟ :</b></u>
@@ -225,7 +238,8 @@ HELP_18 = """
  /shayari   ➠ ᴛᴀɢ ᴀʟʟ ᴍᴇᴍʙᴇʀs ᴡɪᴛʜ sʜᴀʏʀɪ😜.
  /shayarioff  ➠ sᴛᴏᴘ ᴍᴇɴᴛɪᴏɴɪɴɢ sʜᴀʏʀɪ.
  
-✧ᴛʜᴇsᴇ ᴍᴏᴅᴜʟᴇs ʙʏ ➪ [Aᴅᴍɪɴɪsᴛʀᴀᴛᴏʀ💗](https://t.me/Ind_Administrator)"""
+✧ᴛʜᴇsᴇ ᴍᴏᴅᴜʟᴇs ʙʏ ➪ [ᴅᴇᴠᴇʟᴏᴩᴇʀ ➪💗](https://t.me/thevishnusoni14)"""
+
 
 HELP_19 = """
 <b><u>Iɴꜰᴏ :</b></u>
@@ -239,7 +253,7 @@ HELP_19 = """
 /phone ➠ ᴇɴᴛᴇʀ ʏᴏᴜʀ ᴘʜᴏɴᴇ ɴᴏ. ᴀғᴛᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ɢᴇᴛ ᴅᴇᴛᴀɪʟs.
 /Whatsapp {ᴘʜᴏɴᴇ ɴᴜᴍʙᴇʀ}   ➠  ᴛᴏ ɢᴇɴᴇʀᴀᴛᴇ ᴛʜᴇ ᴅɪʀᴇᴄᴛ ʟɪɴᴋ ғᴏʀ ʏᴏᴜʀ ᴡʜᴀᴛsᴀᴘᴘ.
 
-✧ᴛʜᴇsᴇ ᴍᴏᴅᴜʟᴇs ʙʏ ➪ [Aᴅᴍɪɴɪsᴛʀᴀᴛᴏʀ💗](https://t.me/Ind_Administrator)"""
+✧ᴛʜᴇsᴇ ᴍᴏᴅᴜʟᴇs ʙʏ ➪ [ᴅᴇᴠᴇʟᴏᴩᴇʀ ➪💗](https://t.me/thevishnusoni14)"""
 
 HELP_20 = """
 <b><u>Gʀᴏᴜᴘ :</b></u>
@@ -261,7 +275,8 @@ HELP_20 = """
 ⦿ /imposter ᴏɴ/ᴏғғ ➠ ᴛᴜʀɴs ᴏɴ ᴏʀ ᴏғғ ᴛʜᴇ ᴡᴀᴛᴄʜᴇʀ ғᴏʀ ʏᴏᴜʀ ɢʀᴏᴜᴘ, ᴡʜɪᴄʜ ɴᴏᴛɪғɪᴇs ᴀʙᴏᴜᴛ ᴜsᴇʀs ᴡʜᴏ ᴄʜᴀɴɢᴇ ᴛʜᴇɪʀ ɴᴀᴍᴇ ᴏʀ ᴜsᴇʀɴᴀᴍᴇ.
 ⦿ /lang ➠ ᴄʜᴀɴɢᴇ ᴛʜᴇ ʙᴏᴛ ʟᴀɴɢᴜᴀɢᴇ.
 
-✧ᴛʜᴇsᴇ ᴍᴏᴅᴜʟᴇs ʙʏ ➪ [Aᴅᴍɪɴɪsᴛʀᴀᴛᴏʀ💗](https://t.me/Ind_Administrator)"""
+✧ᴛʜᴇsᴇ ᴍᴏᴅᴜʟᴇs ʙʏ ➪ [ᴅᴇᴠᴇʟᴏᴩᴇʀ ➪💗](https://t.me/thevishnusoni14)"""
+
 
 HELP_21 = """
 <b><u>Exᴛʀᴀ :</b></u>
@@ -281,7 +296,8 @@ HELP_21 = """
 ⦿ /short ➠ ᴇɴᴛᴇʀ ᴛʜᴇ ʟɪɴᴋ ᴛʜᴀᴛ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ sʜᴏʀᴛ ᴀғᴛᴇʀ ᴄᴏᴍᴍᴀɴᴅ.
 ⦿ /pdf ➠ ʀᴇᴘʟʏ ᴛᴏ ᴊᴘᴇɢ ғɪʟᴇ ᴛᴏ ᴄᴏɴᴠᴇʀᴛ ɪᴍᴀɢᴇ ᴛᴏ ᴘᴅғ.
 
-✧ᴛʜᴇsᴇ ᴍᴏᴅᴜʟᴇs ʙʏ ➪ [Aᴅᴍɪɴɪsᴛʀᴀᴛᴏʀ💗](https://t.me/Ind_Administrator)"""
+✧ᴛʜᴇsᴇ ᴍᴏᴅᴜʟᴇs ʙʏ ➪ [ᴅᴇᴠᴇʟᴏᴩᴇʀ ➪💗](https://t.me/thevishnusoni14)"""
+
 
 HELP_22 = """
 <b><u>Iᴍᴀɢᴇ :</b></u>
@@ -292,7 +308,8 @@ HELP_22 = """
 ⦿ /upscale ➠ ʀᴇᴘʟʏ ᴛᴏ ᴀɴ ɪᴍᴀɢᴇ ᴛᴏ ᴜᴘsᴄᴀʟᴇ ɪᴛ ᴀɴᴅ ɪᴍᴘʀᴏᴠᴇ ɪᴛs ǫᴜᴀʟɪᴛʏ.
 ⦿ /rmbg ➠ ᴛᴏ ʀᴇᴍᴏᴠᴇ ʙᴀᴄᴋɢʀᴏᴜɴᴅ ғʀᴏᴍ ᴀɴ ɪᴍᴀɢᴇ..
 
-✧ᴛʜᴇsᴇ ᴍᴏᴅᴜʟᴇs ʙʏ ➪ [Aᴅᴍɪɴɪsᴛʀᴀᴛᴏʀ💗](https://t.me/Ind_Administrator)"""
+✧ᴛʜᴇsᴇ ᴍᴏᴅᴜʟᴇs ʙʏ ➪ [ᴅᴇᴠᴇʟᴏᴩᴇʀ ➪💗](https://t.me/thevishnusoni14)"""
+
 
 HELP_23 = """
 <b><u>Aᴄᴛɪᴏɴ :</b></u>
@@ -310,7 +327,8 @@ Admins only:
  ❍ /tmute <userhandle> x(m/h/d): mutes a user for x time. (via handle, or reply). m = minutes, h = hours, d = days.
  ❍ /unmute <userhandle>: unmutes a user. Can also be used as a reply, muting the replied to user.
  
-✧ᴛʜᴇsᴇ ᴍᴏᴅᴜʟᴇs ʙʏ ➪ [Aᴅᴍɪɴɪsᴛʀᴀᴛᴏʀ💗](https://t.me/Ind_Administrator)"""
+✧ᴛʜᴇsᴇ ᴍᴏᴅᴜʟᴇs ʙʏ ➪ [ᴅᴇᴠᴇʟᴏᴩᴇʀ ➪💗](https://t.me/thevishnusoni14)"""
+
 
 HELP_24 = """
 <b><u>Sᴇᴀʀᴄʜ :</b></u>
@@ -330,7 +348,8 @@ Available commands:
 Example:
 /google pyrogram: return top 5 reuslts.
 
-✧ᴛʜᴇsᴇ ᴍᴏᴅᴜʟᴇs ʙʏ ➪ [Aᴅᴍɪɴɪsᴛʀᴀᴛᴏʀ💗](https://t.me/Ind_Administrator)"""
+✧ᴛʜᴇsᴇ ᴍᴏᴅᴜʟᴇs ʙʏ ➪ [ᴅᴇᴠᴇʟᴏᴩᴇʀ ➪💗](https://t.me/thevishnusoni14)"""
+
 
 HELP_25 = """
 <b><u>ᴄᴄ :</b></u>
@@ -340,7 +359,8 @@ HELP_25 = """
 /bin ➠ ᴇɴᴛᴇʀ ᴛʜᴇ ʙɪɴ ᴀғᴛᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ᴄʜᴇᴄᴋ ᴛʜᴇ sᴛᴀᴛᴜs ᴏғ ʙɪɴ.
 /fake ➠ ᴇɴᴛᴇʀ ᴛʜᴇ ᴀɴʏ ʀᴀɴᴅᴏᴍ ᴄᴏᴜɴᴛʀʏ ɴᴀᴍᴇ ᴀғᴛᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ɢᴇɴʀᴀᴛᴇ ғᴀᴋᴇ ɪɴғᴏ.
 
-✧ᴛʜᴇsᴇ ᴍᴏᴅᴜʟᴇs ʙʏ ➪ [Aᴅᴍɪɴɪsᴛʀᴀᴛᴏʀ💗](https://t.me/Ind_Administrator)"""
+✧ᴛʜᴇsᴇ ᴍᴏᴅᴜʟᴇs ʙʏ ➪ [ᴅᴇᴠᴇʟᴏᴩᴇʀ ➪💗](https://t.me/thevishnusoni14)"""
+
 
 HELP_26 = """
 <b><u>ᴛᴇxᴛ ᴇᴅɪᴛɪɴɢ :</b></u>
@@ -353,7 +373,8 @@ HELP_26 = """
 /write ➠ ᴇɴᴛᴇʀ ᴛʜᴇ ᴛᴇxᴛ ᴀғᴛᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ᴡʀɪᴛᴇ ɪɴ ɴᴏᴛᴇʙᴏᴏᴋ.
 /qr ➠ ᴇɴᴛᴇʀ ᴛʜᴇ ᴛᴇxᴛ ᴀғᴛᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ᴛᴏ ɢᴇᴛ ǫʀ ᴄᴏᴅᴇ ᴏғ ᴛᴇxᴛ.
 
-✧ᴛʜᴇsᴇ ᴍᴏᴅᴜʟᴇs ʙʏ ➪ [Aᴅᴍɪɴɪsᴛʀᴀᴛᴏʀ💗](https://t.me/Ind_Administrator)"""
+✧ᴛʜᴇsᴇ ᴍᴏᴅᴜʟᴇs ʙʏ ➪ [ᴅᴇᴠᴇʟᴏᴩᴇʀ ➪💗](https://t.me/thevishnusoni14)"""
+
 
 HELP_27 = """
 <b><u>ᴍᴀsᴛɪ♡︎ :</b></u>
