@@ -19,7 +19,7 @@ ASSUSERNAME = getenv("ASSUSERNAME", "Radhaxassistant")
 EVALOP = list(map(int, getenv("EVALOP", "6209871909").split()))
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 LOGGER_ID = int(getenv("LOGGER_ID", -1002420612426))
-DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
+DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 600))
 # External APIs - Get these from their respective providers
 GPT_API = getenv("GPT_API")
 DEEP_API = getenv("DEEP_API")
