@@ -1,4 +1,4 @@
-import asyncio
+import asyncio #fuck other music bots
 import os
 import re
 import json
