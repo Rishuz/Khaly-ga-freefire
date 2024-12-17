@@ -65,5 +65,4 @@ wget
 yt-dlp
 youtube-search
 youtube-search-python
-httpx==0.25.2
-bs4
+httpx[http2]==0.27.2
