@@ -15,7 +15,7 @@ HELP_1 = """<b><u>ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅs :</b></u>
 
 /queue : sʜᴏᴡs ᴛʜᴇ ǫᴜᴇᴜᴇᴅ ᴛʀᴀᴄᴋs ʟɪsᴛ.
 
-<blockquote>❖ ʟᴏᴠᴇ ᴡɪᴛʜ <a href=https://t.me/ur_rishu_143>ʀɪsʜᴜ-ᴍᴜsɪᴄ</a></blockquote>"""
+<blockquote> ❖ ʟᴏᴠᴇ ᴡɪᴛʜ <a href=https://t.me/ur_rishu_143>ʀɪsʜᴜ-ᴍᴜsɪᴄ</a> </blockquote>"""
 
 HELP_2 = """
 <b><u>ᴀᴜᴛʜ ᴜsᴇʀs :</b></u>
