@@ -66,28 +66,6 @@ async def settings_cb(client, CallbackQuery, _):
         reply_markup=InlineKeyboardMarkup(buttons),
     )
 
-#support wals #
-
-@app.on_callback_query(filters.regex("suppo") & ~BANNED_USERS)
-@languageCB
-async def settings_cb(client, CallbackQuery, _):
-    await CallbackQuery.edit_message_media(
-        InputMediaVideo(
-            "https://envs.sh/Rke.mp4", 
-            caption= f"<blockquote>**⌬ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ᴛᴏ ɢᴇᴛ ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ᴍᴇ\n\n❍ ɪғ ʏᴏᴜ ғɪɴᴅ ᴀɴʏ ᴇʀʀᴏʀ ᴏʀ ʙᴜɢ ᴏɴ ʙᴏᴛ ᴏʀ ᴡᴀɴᴛ ᴛᴏ ɢɪᴠᴇ ᴀɴʏ ғᴇᴇᴅʙᴀᴄᴋ ᴀʙᴏᴜᴛ ᴛʜᴇ ʙᴏᴛ ᴛʜᴇɴ ʏᴏᴜ ᴀʀᴇ ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ [sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ](t.me/ur_support07) ๏ **</blockquote>"
-        ),
-        reply_markup=InlineKeyboardMarkup(
-            [
-[InlineKeyboardButton(text="˹ ❍ᴡɴᴇꝛ ˼", user_id="5738579437")],
-[InlineKeyboardButton(text="• ᴜᴘᴅᴀᴛᴇ •", url=f"t.me/ur_rishu_143"),
-InlineKeyboardButton(text="• sᴜᴘᴘᴏʀᴛ •", url=f"t.me/ur_support07")],
-[InlineKeyboardButton(text="• ᴀʟʟ ʙᴏᴛs •", url=f"t.me/vip_robotz/4"),
-InlineKeyboardButton(text="• ᴀʟʟ ᴀᴘɪ •", url=f"t.me/rishuapi")],
-[InlineKeyboardButton(text="⌬ ʙᴀᴄᴋ ⌬", callback_data=f"settingsback_helper")],
-             ],   
-     ),
-    )
-
     
 @app.on_callback_query(filters.regex("settingsback_helper") & ~BANNED_USERS)
 @languageCB
