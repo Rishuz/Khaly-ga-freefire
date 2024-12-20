@@ -83,7 +83,7 @@ async def settings_cb(client, CallbackQuery, _):
 InlineKeyboardButton(text="• sᴜᴘᴘᴏʀᴛ •", url=f"t.me/ur_support07")],
 [InlineKeyboardButton(text="• ᴀʟʟ ʙᴏᴛs •", url=f"t.me/vip_robotz/4"),
 InlineKeyboardButton(text="• ᴀʟʟ ᴀᴘɪ •", url=f"t.me/rishuapi")],
-[InlineKeyboardButton(text="⌬ ʙᴀᴄᴋ ⌬", callback_data=f"gibt_source")],
+[InlineKeyboardButton(text="⌬ ʙᴀᴄᴋ ⌬", callback_data=f"settingsback_helper")],
              ],   
      ),
     )
